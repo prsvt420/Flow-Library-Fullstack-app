@@ -1,0 +1,86 @@
+[
+    {
+        "model": "book.author",
+        "pk": 1,
+        "fields": {
+            "name": "Гарри Персиваль"
+        }
+    },
+    {
+        "model": "book.author",
+        "pk": 2,
+        "fields": {
+            "name": "Боб Грегори"
+        }
+    },
+    {
+        "model": "book.author",
+        "pk": 3,
+        "fields": {
+            "name": "Лусиану Рамальо"
+        }
+    },
+    {
+        "model": "book.author",
+        "pk": 4,
+        "fields": {
+            "name": "Майкл Нейгард"
+        }
+    },
+    {
+        "model": "book.author",
+        "pk": 5,
+        "fields": {
+            "name": "Эрик Редмонд"
+        }
+    },
+    {
+        "model": "book.author",
+        "pk": 6,
+        "fields": {
+            "name": "Уилсон Джим Р."
+        }
+    },
+    {
+        "model": "book.author",
+        "pk": 7,
+        "fields": {
+            "name": "Мэттью Фаулер"
+        }
+    },
+    {
+        "model": "book.author",
+        "pk": 8,
+        "fields": {
+            "name": "Билл Любанович"
+        }
+    },
+    {
+        "model": "book.author",
+        "pk": 9,
+        "fields": {
+            "name": "Бейдер Дэн"
+        }
+    },
+    {
+        "model": "book.author",
+        "pk": 10,
+        "fields": {
+            "name": "Эндрю Таненбаум"
+        }
+    },
+    {
+        "model": "book.author",
+        "pk": 11,
+        "fields": {
+            "name": "Уэзеролл Дэвид"
+        }
+    },
+    {
+        "model": "book.author",
+        "pk": 12,
+        "fields": {
+            "name": "Марк Лутц"
+        }
+    }
+]

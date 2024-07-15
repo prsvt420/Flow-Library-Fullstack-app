@@ -1,0 +1,30 @@
+[
+    {
+        "model": "book.publisher",
+        "pk": 1,
+        "fields": {
+            "name": "Питер"
+        }
+    },
+    {
+        "model": "book.publisher",
+        "pk": 2,
+        "fields": {
+            "name": "ДМК Пресс"
+        }
+    },
+    {
+        "model": "book.publisher",
+        "pk": 3,
+        "fields": {
+            "name": "Спринт Бук"
+        }
+    },
+    {
+        "model": "book.publisher",
+        "pk": 4,
+        "fields": {
+            "name": "Вильямс"
+        }
+    }
+]

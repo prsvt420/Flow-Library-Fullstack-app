@@ -1,0 +1,65 @@
+[
+    {
+        "model": "book.tag",
+        "pk": 1,
+        "fields": {
+            "name": "Python"
+        }
+    },
+    {
+        "model": "book.tag",
+        "pk": 2,
+        "fields": {
+            "name": "C++"
+        }
+    },
+    {
+        "model": "book.tag",
+        "pk": 3,
+        "fields": {
+            "name": "JavaScript"
+        }
+    },
+    {
+        "model": "book.tag",
+        "pk": 4,
+        "fields": {
+            "name": "SQL"
+        }
+    },
+    {
+        "model": "book.tag",
+        "pk": 5,
+        "fields": {
+            "name": "Проектирование"
+        }
+    },
+    {
+        "model": "book.tag",
+        "pk": 6,
+        "fields": {
+            "name": "Java"
+        }
+    },
+    {
+        "model": "book.tag",
+        "pk": 7,
+        "fields": {
+            "name": "FastAPI"
+        }
+    },
+    {
+        "model": "book.tag",
+        "pk": 8,
+        "fields": {
+            "name": "Компьютерные сети"
+        }
+    },
+    {
+        "model": "book.tag",
+        "pk": 9,
+        "fields": {
+            "name": "Computer Science"
+        }
+    }
+]
