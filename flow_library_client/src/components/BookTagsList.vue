@@ -28,7 +28,7 @@ export default {
     },
     methods: {
         loadTags() {
-            axios.get('http://192.168.0.104:8000/api/tags/')
+            axios.get('http://127.0.0.1:8000/api/tags/')
             .then(response => {
                 this.tags = response.data
             })

@@ -74,7 +74,7 @@ export default {
     },
 
     loadBooks() {
-      let url = `http://192.168.0.104:8000/api/books/?page=${this.currentPage}`;
+      let url = `http://127.0.0.1:8000/api/books/?page=${this.currentPage}`;
 
       if (this.currentTag) {
         url += `&tag=${this.currentTag}`;
